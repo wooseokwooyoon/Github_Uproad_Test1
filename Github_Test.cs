@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace GitHubTestProject
 {
-    class Program
+    class Program //ㅁㄴㅇㄹㅁㄴㅇㄹ
     {
         static void Main(string[] args)
         {
