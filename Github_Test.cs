@@ -7,7 +7,7 @@ namespace GitHubTestProject
     {
         static void Main(string[] args) //test2
         {
-            Console.WriteLine("========================================");
+            Console.WriteLine("========================================"); //asdfasdf
             Console.WriteLine("   Welcome to C# Character Creator!   ");
             Console.WriteLine("========================================\n");
 
