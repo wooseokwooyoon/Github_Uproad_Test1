@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace GitHubTestProject
 {
-    class Program //ㅁㄴㅇㄹㅁㄴㅇㄹ
+    class Program //test1
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //test2
         {
             Console.WriteLine("========================================");
             Console.WriteLine("   Welcome to C# Character Creator!   ");
